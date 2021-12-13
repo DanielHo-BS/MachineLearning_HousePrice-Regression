@@ -1,5 +1,6 @@
-# regression-NTUT107310212 
-使用的方式為DNN by keras
+# Kaggle：Autumn-Regression 
+使用的方式為DNN by keras  
+以Python撰寫，程式請參考 main.ipynb
 
 步驟
 --
@@ -41,4 +42,10 @@
 改進
 
     嘗試訓練多個小型model，進行ensemble model
-    對時間相關的特徵做特徵工程
+    對時間相關的特徵做特徵工程  
+    
+成果
+
+    Kaggle：Private Leaderboard
+
+ ![image](images/1.png)    
