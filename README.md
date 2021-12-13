@@ -35,7 +35,9 @@
     loss=keras.losses.MeanSquaredError()
     metrics=[keras.metrics.MeanAbsoluteError()
     #使用MSE與MAE進行評估
-
+![image](images/MAS.png)
+![image](images/MSE.png)  
+  
 改進
 
     嘗試訓練多個小型model，進行ensemble model
