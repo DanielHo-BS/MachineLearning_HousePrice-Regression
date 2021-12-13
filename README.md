@@ -46,6 +46,6 @@
     
 成果
 
-    Kaggle：Private Leaderboard
+    Kaggle：Private Leaderboard 55/159  
 
  ![image](images/1.png)    
