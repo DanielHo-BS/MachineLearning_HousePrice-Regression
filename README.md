@@ -11,10 +11,10 @@
 資料前處理
 
     載入csv檔後，進行特徵相關性的分析  
-    發現與sale相關的特徵關聯性較低，將其移除
-    ![image](images/corr_price.png)
-    使用其他 18個特徵
+    發現與sale相關的特徵關聯性較低，將其移除  
+    使用其他 18個特徵  
     進行正規化處理 x=(x- mean) / std  
+![image](images/corr_price.png)
 
 模型建構
 
