@@ -1,4 +1,4 @@
-# Kaggle：Autumn-Regression 
+# Kaggle：House Price-Regression
 使用的方式為DNN by keras  
 以Python撰寫，程式請參考 main.ipynb
 
